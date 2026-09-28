@@ -190,3 +190,4 @@ form button { margin-top: 18px; cursor: pointer; }
   .section-alt .grid-3 .card-body h3 { font-size: 1rem; }
   .section-alt .grid-3 .card-body p { display: none; }
 }
+@media (max-width: 900px) { .header-call { display: none; } }
